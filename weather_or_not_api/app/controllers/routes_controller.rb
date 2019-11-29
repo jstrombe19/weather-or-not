@@ -47,3 +47,5 @@ class RoutesController < ApplicationController
   end
 
 end
+
+# Note: You are required to display the link “Powered by Dark Sky” somewhere prominent in your app or service.
